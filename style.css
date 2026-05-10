@@ -165,7 +165,7 @@ aside .sidebar a{
 
 aside .sidebar a span{
     font-size: 1.6rem;
-    transition: all .1s eas;
+    transition: all .1s ease;
 }
 aside .sidebar a:last-child{
     position: absolute;
